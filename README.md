@@ -42,7 +42,6 @@ ai-surveillance-system/
 └── README.md
 
 ---
-Live Demo: https://ai-surveillance-yolo-diffusion-ceatkyay6t9xpt7e5lezdk.streamlit.app/
 
 ## ⚙️ Installation
 
