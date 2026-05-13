@@ -43,32 +43,6 @@ ai-surveillance-system/
 
 ---
 
-## ⚙️ Installation
-
-### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-surveillance-yolo-diffusion.git
-
-cd ai-surveillance-yolo-diffusion
-
----
-
-### 2. Install dependencies
-pip install -r requirements.txt
-
----
-
-### 3. Run the project
-
-#### ▶️ Option 1: Run pipeline directly
-python app/main_pipeline.py data/your_video.mp4
-
----
-
-#### ▶️ Option 2: Run with UI (Recommended)
-streamlit run app/ui.py
-
----
-
 ## 📸 Output
 
 - Generated AI images are saved in:
